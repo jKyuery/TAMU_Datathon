@@ -1,4 +1,4 @@
-# TAMU_Datathon
+# Team ENARC (ConocoPhillips Challenge)
 TAMU Dathathon (October 19, 2019 - October 20, 2019)
 
 This project uses a python library known as xgboost (extreme gradient boost) to best model the training and test data given by the company's
